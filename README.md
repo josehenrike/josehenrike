@@ -22,4 +22,6 @@ Me chamo José Henrike, sou Desenvolvedor Júnior e estudante de Engenharia de S
 </div>
 
 
+  
+
 ![Henrike GitHub stats](https://github-readme-stats.vercel.app/api?username=josehenrike&show_icons=true&theme=dracula)
